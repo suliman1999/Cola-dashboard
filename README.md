@@ -1,5 +1,8 @@
 # Coca-Cola Sales Dashboard (Power BI)
 
+<img width="1358" height="765" alt="cola (1)" src="https://github.com/user-attachments/assets/486ce1ce-ef23-4896-bfa8-8be3cb20a583" />
+
+
 ## 📊 Overview
 This project presents an interactive **Power BI Sales Dashboard** analyzing Coca-Cola beverage sales performance across the United States.  
 It provides insights into **total sales, units sold, operating profit, margins**, and **geographic distribution** to support data-driven business decisions.
